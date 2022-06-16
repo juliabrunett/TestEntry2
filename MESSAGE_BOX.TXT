@@ -40,7 +40,7 @@ and in UT-Toolkit code
 	U_Start
 	XCALL MESSAGE_BOX
 
-Provided in code exchange
+Provided in CodeExchange
 1. This readme
 2. Subroutine	MESSAGE_BOX.DBL
 3. Demo Program	DEMO_MESSAGE_BOX.DBL
