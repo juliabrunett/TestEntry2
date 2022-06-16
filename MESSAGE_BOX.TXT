@@ -1,7 +1,7 @@
 Subroutine:	MESSAGE_BOX
 
-To process messages in synergy code and put the MSG_BOX in center of active synergy Window
-regardless of the size of the synergy window and MSG_BOX. Std code or UI-Toolkit compatible.
+To process messages in Synergy code and put the MSG_BOX in center of active Synergy Window
+regardless of the size of the Synergy window and MSG_BOX. Std code or UI-Toolkit compatible.
 
 Supports:	Up to 5 lines of message text
 		Up to 5 Buttons (Programmable and Configurable)
