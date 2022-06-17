@@ -5,7 +5,7 @@
 **Description:** This is my brief description about this awesome code.<br />
 **Platforms:** Windows;Unix;OpenVMS<br />
 **Products:** Floating Point API, RCB API, Symbol Table API, Windows Printing API, xfServer, xfNetLink Java, C#<br />
-**Minimum Version:** 12.1.1.3278<br />
+**Minimum Version:** 9<br />
 **Author:** Denise Smelich
 <hr>
 
