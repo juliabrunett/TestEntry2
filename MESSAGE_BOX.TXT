@@ -41,9 +41,10 @@ and in UT-Toolkit code
 	XCALL MESSAGE_BOX
 
 Provided in the Synergex CodeExchange
-1. This readme
-2. Subroutine	MESSAGE_BOX.DBL
-3. Demo Program	DEMO_MESSAGE_BOX.DBL
+1. This MESSAGE_BOX.TXT file
+2. README.md
+3. Subroutine	MESSAGE_BOX.DBL
+4. Demo Program	DEMO_MESSAGE_BOX.DBL
 
 To Build Demo program
 create bat file contain below.
